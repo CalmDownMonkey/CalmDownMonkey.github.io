@@ -4,13 +4,65 @@
  <title>Lanyon</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-03-14T14:56:37+00:00</updated>
+ <updated>2020-03-14T15:36:47+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Testing Thai</title>
+   <link href="http://localhost:4000/2020/03/14/testing-thai/"/>
+   <updated>2020-03-14T00:00:00+00:00</updated>
+   <id>http://localhost:4000/2020/03/14/testing-thai</id>
+   <content type="html">&lt;h2 id=&quot;this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;This is a test Thai blog post ภาษาไทย&lt;/h2&gt;
+
+&lt;p&gt;สวัสดีครับ&lt;/p&gt;
+
+&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+
+&lt;p&gt;This is an example quote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;วิลล์เป็นคนผุ้ชายสวยที่สุดในโลก&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here are some styles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bold &lt;strong&gt;Thai ภาษาไทย&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Italic &lt;em&gt;Thai ภาษาไทย&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Highlighted&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3rd-this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;3rd: This is a test Thai blog post ภาษาไทย&lt;/h3&gt;
+
+&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+
+&lt;p&gt;This is an example quote:&lt;/p&gt;
+
+&lt;h4 id=&quot;4th-this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;4th: This is a test Thai blog post ภาษาไทย&lt;/h4&gt;
+
+&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+
+&lt;p&gt;This is an example quote:&lt;/p&gt;
+
+&lt;h5 id=&quot;5th-this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;5th: This is a test Thai blog post ภาษาไทย&lt;/h5&gt;
+
+&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+
+&lt;p&gt;This is an example quote:&lt;/p&gt;
+
+&lt;h6 id=&quot;6th-this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;6th: This is a test Thai blog post ภาษาไทย&lt;/h6&gt;
+
+&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+
+&lt;p&gt;This is an example quote:&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Introducing Lanyon</title>
