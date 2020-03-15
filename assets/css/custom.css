@@ -4,3 +4,12 @@
     height: 33px;
     margin-right: 10px;
   }
+
+  @font-face {
+    font-family: 'pad_thairegular';
+    src: url('/padthai_-webfont.woff2') format('woff2'),
+         url('/padthai_-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
