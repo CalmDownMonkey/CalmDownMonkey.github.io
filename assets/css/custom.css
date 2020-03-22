@@ -4,7 +4,11 @@
     height: 33px;
     margin-right: 10px;
   }
-
+.title-recenter {
+  height: 33px;
+  vertical-align: middle;
+  display: table-cell;
+}
   @font-face {
     font-family: 'pad_thairegular';
     src: url('/padthai_-webfont.woff2') format('woff2'),

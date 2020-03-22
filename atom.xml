@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>I Believe I Can Thai</title>
- <link href="http://www.ibelieveicanthai.com/atom.xml" rel="self"/>
- <link href="http://www.ibelieveicanthai.com/"/>
- <updated>2020-03-15T21:16:30+00:00</updated>
- <id>http://www.ibelieveicanthai.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-03-22T20:37:23+00:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Will Farquharson</name>
    <email>calmdownmonkey86@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Testing Thai</title>
-   <link href="http://www.ibelieveicanthai.com/2020/03/14/testing-thai/"/>
+   <link href="http://localhost:4000/2020/03/14/testing-thai/"/>
    <updated>2020-03-14T00:00:00+00:00</updated>
-   <id>http://www.ibelieveicanthai.com/2020/03/14/testing-thai</id>
+   <id>http://localhost:4000/2020/03/14/testing-thai</id>
    <content type="html">&lt;h2 id=&quot;this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;This is a test Thai blog post ภาษาไทย&lt;/h2&gt;
 
 &lt;p&gt;สวัสดีครับ&lt;/p&gt;
