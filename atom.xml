@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>I Believe I Can Thai</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-03-22T20:37:23+00:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://www.ibelieveicanthai.com/atom.xml" rel="self"/>
+ <link href="http://www.ibelieveicanthai.com/"/>
+ <updated>2020-04-01T21:04:59+01:00</updated>
+ <id>http://www.ibelieveicanthai.com</id>
  <author>
    <name>Will Farquharson</name>
    <email>calmdownmonkey86@gmail.com</email>
@@ -13,54 +13,170 @@
 
  
  <entry>
-   <title>Testing Thai</title>
-   <link href="http://localhost:4000/2020/03/14/testing-thai/"/>
-   <updated>2020-03-14T00:00:00+00:00</updated>
-   <id>http://localhost:4000/2020/03/14/testing-thai</id>
-   <content type="html">&lt;h2 id=&quot;this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;This is a test Thai blog post ภาษาไทย&lt;/h2&gt;
+   <title>"Did I say that right?" - Getting Thais to Fill in Your Gaps</title>
+   <link href="http://www.ibelieveicanthai.com/2020/03/30/asking-for-help/"/>
+   <updated>2020-03-30T00:00:00+01:00</updated>
+   <id>http://www.ibelieveicanthai.com/2020/03/30/asking-for-help</id>
+   <content type="html">&lt;div align=&quot;center&quot;&gt;
+    &lt;img src=&quot;../assets/images/blog1.png&quot; /&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;did-i-say-that-right---getting-thais-to-fill-in-your-gaps&quot;&gt;“Did I say that right?” - Getting Thais to Fill in Your Gaps&lt;/h2&gt;
 
-&lt;p&gt;สวัสดีครับ&lt;/p&gt;
+&lt;p&gt;It’s no secret that mingling with the natives and striking up real conversations is downright essential for getting over the intermediate level hump when learning Thai. Not only is a successful exchange immensely satisfying,  but these interactions are much better at cementing new phrases and vocabulary into our brains - often, I remember them forever, both the good and the bad.&lt;/p&gt;
 
-&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+&lt;p&gt;Depending on your personal circumstances, the first problem is finding Thai natives to practice with. Everyone should have access to at least one of these sources:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;A Thai partner or friend&lt;/strong&gt;. I routinely ask my wife for “Thai-only” time, where we ban English and I’m forced to dance around doing miming accompaniments to get my point across. I struggle my way through trying to say something, and my wife corrects me. It’s fun, and the stuff I learn tends to stick. Besides dedicated “Thai-time”, I often try to drop in the odd everyday sentence in Thai. For example, I was about to say &lt;em&gt;I’ll bring the plate over to you&lt;/em&gt;, and I decided I was going to attempt it in Thai. I stuttered out &lt;em&gt;ผมจะเอาจาน… ให้… คุณ&lt;/em&gt; and my wife hastily corrected me: &lt;em&gt;ผมจะยกจานไปให้คุณ&lt;/em&gt;. Even dropping in simple sentences like &lt;strong&gt;หิวไหมครับ&lt;/strong&gt; and &lt;strong&gt;เป็นยังไงบ้าง&lt;/strong&gt; can give you great practice hearing possible responses.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Out and about in Thailand&lt;/strong&gt;. When I’m in Thailand, I try to have my everyday interactions with natives, but for these conversations I still prepare in advance. Everything from buying BTS tickets, restaurant situations, taxis, and hotel receptions are good candidates.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Thai restaurants&lt;/strong&gt;. Even without being in Thailand it’s still possible to get into real life language situations by going to a Thai restaurant or takeaway.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;HelloTalk smartphone app&lt;/strong&gt;. This app lets you speak to random Thai natives regardless of where you are in the world, meant as a sort of language exchange where you can correct each other’s sentences. I’ve met new friends on here. People seem genuinely interested in taking to you and helping you out. Don’t be afraid to hit up quite a few people in the hopes that you find a couple of good dedicated ones. &lt;a href=&quot;https://www.hellotalk.com/&quot;&gt;Available for iOS and Android&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;This is an example quote:&lt;/p&gt;
+&lt;p&gt;I wanted to write about how I get the most from these situations by sharing a few handy phrases that ask natives to help us fix our broken Thai. Too often for me, these situations could end in these unfavourable ways:&lt;/p&gt;
+
+&lt;h3 id=&quot;my-lack-of-confidence-turns-me-into-a-stuttering-mess-and-weve-switched-to-english-instead&quot;&gt;My lack of confidence turns me into a stuttering mess and we’ve switched to English instead&lt;/h3&gt;
+
+&lt;p&gt;Usually, the Thai person will see me struggling, and out of kindness, try to help me out by switching to whatever English they know. Whilst this probably does increase your chance of getting what you need out of the exchange (e.g., the directions you needed), it does nothing for your language ability. I’ve even had them switch to English even if my opening Thai remarks were perfect.&lt;/p&gt;
+
+&lt;p&gt;For this situation, I like to tell the person that I’m actively trying to learn Thai. This seems to do two things: firstly, it helps with my lack of confidence by making it clear to the person that I’m only learning, and it makes me feel they’ll be more understanding when I’m more careful and slow with my sentences. Secondly, it usually prevents them from immediately switching to English, and instead puts them into “teaching mode”, where they purposely say simpler sentences and sometimes even have a bit of fun trying to teach you. Overall, it takes some of the embarrassing sting out of it for me.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;วิลล์เป็นคนผุ้ชายสวยที่สุดในโลก&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;ผมพยายามเรียนภาษาไทยอยู่&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;I’m trying to learn Thai.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Here are some styles:&lt;/p&gt;
+&lt;h3 id=&quot;the-native-understands-my-thai-and-is-so-impressed-they-believe-i-must-be-fluent-and-start-blabbering-free-style-and-i-dont-understand&quot;&gt;The native understands my Thai, and is so impressed they believe I must be fluent and start blabbering free-style and I don’t understand&lt;/h3&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Bold &lt;strong&gt;Thai ภาษาไทย&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Italic &lt;em&gt;Thai ภาษาไทย&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Highlighted&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;This happens to me a lot because my pronunciation is much clearer than my language ability would suggest. It’s flattering in a sense, but it can kill an otherwise successful interaction pretty quickly. I don’t want to spend the rest of the taxi ride in silence and miss the learning opportunity, so, besides the phrase above, these have also helped me out a lot:&lt;/p&gt;
 
-&lt;h3 id=&quot;3rd-this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;3rd: This is a test Thai blog post ภาษาไทย&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;ผมพูดได้แค่นิดหน่อยครับ&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+  &lt;p&gt;I only speak a little.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;This is an example quote:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;ช่วยพูดช้าๆได้ไหมครับ&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;4th-this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;4th: This is a test Thai blog post ภาษาไทย&lt;/h4&gt;
+  &lt;p&gt;Can you say that slower?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;ผมไม่เข้าใจครับ ใช้ประโยคอื่นได้ไหมครับ&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This is an example quote:&lt;/p&gt;
+  &lt;p&gt;I don’t understand - can you say that again another way?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h5 id=&quot;5th-this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;5th: This is a test Thai blog post ภาษาไทย&lt;/h5&gt;
+&lt;h3 id=&quot;i-say-something-incorrectly-but-the-native-managed-to-understand-what-i-was-meaning-anyway-so-i-dont-learn-anything-from-it&quot;&gt;I say something incorrectly, but the native managed to understand what I was meaning anyway, so I don’t learn anything from it&lt;/h3&gt;
 
-&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+&lt;p&gt;I’ll often discover I’ve been saying something totally incorrectly since I started using it - either the completely wrong word, some bad grammar, words in the wrong order, using the wrong classifier, to name but a few mistakes. These mistakes as so embedded they can be hard to shake. For that reason, during longer exchanges or if it’s with my wife or a friend, I’ll use these phrases to ask them to actively try to correct my Thai. These can also be useful on &lt;strong&gt;HelloTalk&lt;/strong&gt; too because I find you have to prompt people to actively correct you.&lt;/p&gt;
 
-&lt;p&gt;This is an example quote:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;ช่วยทักผมด้วยครับ ถ้าผมพูดผิด&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h6 id=&quot;6th-this-is-a-test-thai-blog-post-ภาษาไทย&quot;&gt;6th: This is a test Thai blog post ภาษาไทย&lt;/h6&gt;
+  &lt;p&gt;Please correct me if I say something wrong…&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;This is an example of คนบ้า in-line Thai&lt;/p&gt;
+&lt;p&gt;This uses the verb &lt;strong&gt;ทัก&lt;/strong&gt;, which in this context translates into something like “to alert” - i.e., “Please alert me if I say something wrong”.&lt;/p&gt;
 
-&lt;p&gt;This is an example quote:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;ประโยคที่ถูกต้องคืออะไร&lt;/strong&gt;&lt;/p&gt;
 
+  &lt;p&gt;What’s the right way to say that sentence?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Useful if you manage to get a sentence out, but you aren’t certain you said it right, or it took a moment for them to understand.&lt;/p&gt;
+
+&lt;p&gt;In response, you may hear:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;ประโยคนี้ถูกแล้ว / พูดถูกแล้ว&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;The sentence is correct / You said it correctly&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Another few alternatives. Note the first sentence below can be interpreted as “Is what I’ve said correct” in the sense of “true”, rather than grammatically correct.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;ที่ผมพูดถูกต้องไหมครับ&lt;/strong&gt; /&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;คำพูดที่ผมใช้ถูกต้องไหมครับ&lt;/strong&gt; (clearer)&lt;/p&gt;
+
+  &lt;p&gt;Did I say that right? /&lt;/p&gt;
+
+  &lt;p&gt;Am I using the right words? (clearer)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;i-say-something-grammatically-correct-but-in-an-overly-formal-or-verbose-way-that-a-native-would-never-use-but-never-find-out-about-it&quot;&gt;I say something grammatically correct, but in an overly formal or verbose way that a native would never use, but never find out about it&lt;/h3&gt;
+
+&lt;p&gt;I’ll often use pre-packaged sentences from phrasebooks, which are often overly formal, and never realise that Thais have a simple 2-3 word equivalent for the same thing. For example, I could say something as long as &lt;strong&gt;คุณกำลังทำอะไรอยู่ครับ&lt;/strong&gt; (What are you doing?), not realising I can just say &lt;strong&gt;ทำไรอะ&lt;/strong&gt;. In order to discover these chopped down more informal sentences, that can me sound a lot more Thai than the phrasebook versions, I am getting into the habit of asking:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;มีประโยคที่ดีกว่านี้ไหมครับ&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Is there a better/easier way to say what I just said?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;i-get-entirely-stuck-on-a-word-or-phrase-or-i-need-to-say-something-and-im-completely-stumped&quot;&gt;I get entirely stuck on a word or phrase, or I need to say something and I’m completely stumped&lt;/h3&gt;
+
+&lt;p&gt;As with some of the situations above, it can be tempting to let the encounter switch over to English, but I’m starting to resist that and persist trying to get my point across, throwing in some keywords that I do know, and a heavily helping of miming. As with some of the earlier situations, it can help to explain that you’re learning Thai. However, if you want them to translate the thing you’re desperately trying to mime to them or spluttering out random keywords, you can ask:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;พูดยังไง&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;How do you say it?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This of course assumes you’ve managed to slip in enough keywords that they get what you’re trying to say. If they’ve definitely understood, and you want to know what you &lt;em&gt;should’ve&lt;/em&gt; said, you can say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;ผมควรพูดว่าอะไร&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;What should I say?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you’re asking for the Thai word for something within pointing distance, you can ask:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;อันนี้เรียกว่าอะไร&lt;/strong&gt; /&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;อันนี้ภาษาไทยเรียกว่าอะไร&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;What’s this called?  /&lt;/p&gt;
+
+  &lt;p&gt;What’s this called in Thai?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you’re like me, you sometimes struggle to tell some really similar sounding vowels and consonants apart (I still struggle with &lt;strong&gt;อุ&lt;/strong&gt; vs &lt;strong&gt;โอะ&lt;/strong&gt;, and &lt;strong&gt;เออ&lt;/strong&gt; vs &lt;strong&gt;อือ&lt;/strong&gt;, and &lt;strong&gt;ปอ&lt;/strong&gt; vs &lt;strong&gt;บอ&lt;/strong&gt; to name a few). For that reason, I find it helpful to have it spelt out to me,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;[word]สะกดยังไงครับ&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;How’s [word] spelt?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You could leave out the [word] itself it’s clear from context.&lt;/p&gt;
+
+&lt;p&gt;…or if that really isn’t working, asking for it to be written down.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;ช่วยเขียนได้ไหมครับ&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Can you write it down for me?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;wrapping-up&quot;&gt;Wrapping Up&lt;/h2&gt;
+
+&lt;p&gt;It goes without saying, your mileage may vary, and your approach to language learning may be entirely different to mine. Perhaps this isn’t the first time you’re learning a second language, and you’re able to soldier through situations a lot better than I can without the use of these phrases. Nevertheless, I hope they make a useful addition to someone’s flashcards somewhere, and help you out in a tricky situation or two.&lt;/p&gt;
 </content>
  </entry>
  

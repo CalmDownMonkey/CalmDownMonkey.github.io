@@ -84,18 +84,18 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #ac4142 !important;
   text-rendering: optimizeLegibility;
 }
 h1 {
   font-size: 2rem;
 }
 h2 {
-  margin-top: 1rem;
+  margin-top: 2rem;
   font-size: 1.5rem;
 }
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
@@ -214,9 +214,30 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  color: #694340;
+  background-color: #E5DACE;
+  /* border-left: .25rem solid #e5e5e5; */
 }
+
+blockquote p {
+  font-size: smaller;
+  border-bottom: 0px;
+  margin: 0;
+}
+
+blockquote p strong {
+  color: #694340;
+  font-size: x-large;
+  font-weight: normal;
+}
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #f9f9f9;
+}
+
 blockquote p:last-child {
   margin-bottom: 0;
 }
