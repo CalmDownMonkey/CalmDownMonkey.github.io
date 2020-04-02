@@ -4,7 +4,7 @@
  <title>I Believe I Can Thai</title>
  <link href="http://www.ibelieveicanthai.com/atom.xml" rel="self"/>
  <link href="http://www.ibelieveicanthai.com/"/>
- <updated>2020-04-02T12:50:06+01:00</updated>
+ <updated>2020-04-02T13:27:25+01:00</updated>
  <id>http://www.ibelieveicanthai.com</id>
  <author>
    <name>Will Farquharson</name>
@@ -18,8 +18,9 @@
    <updated>2020-03-30T00:00:00+01:00</updated>
    <id>http://www.ibelieveicanthai.com/2020/03/30/asking-for-help</id>
    <content type="html">&lt;div align=&quot;center&quot;&gt;
-    &lt;img src=&quot;../assets/images/blog1.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/blog1.png&quot; /&gt;
 &lt;/div&gt;
+
 &lt;p&gt;It’s no secret that mingling with the natives and striking up real conversations is downright essential for getting over the intermediate level hump when learning Thai. Not only is a successful exchange immensely satisfying,  but these interactions are much better at cementing new phrases and vocabulary into our brains - often, I remember them forever, both the good and the bad.&lt;/p&gt;
 
 &lt;p&gt;Depending on your personal circumstances, the first problem is finding Thai natives to practice with. Everyone should have access to at least one of these sources:&lt;/p&gt;
