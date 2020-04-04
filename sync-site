@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Running Will's sync-site script."
+rsync -vrz --progress --delete --exclude "/.git" _site/ ../CalmDownMonkey.github.io
